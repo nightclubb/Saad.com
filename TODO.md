@@ -1,0 +1,3 @@
+- [x] Remove email input field from contactus.html form
+- [x] Add input field for "عدد الافراد" (number of people)
+- [x] Add JavaScript to handle form submission and open WhatsApp with fixed message including name and number
